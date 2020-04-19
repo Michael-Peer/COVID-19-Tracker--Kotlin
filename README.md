@@ -6,7 +6,7 @@
 
 ## Country Screen
 
-![covid2](https://user-images.githubusercontent.com/44434337/79692028-7c7e8780-826b-11ea-912e-b70ca37ff275.png)
+![updated covid](https://user-images.githubusercontent.com/44434337/79692768-99b55500-826f-11ea-9ad2-597dce861ebb.png)
 
 
 ### Written using kotlin for Android
