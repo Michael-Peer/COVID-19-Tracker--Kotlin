@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#FF311B92</color>-->
+    <color name="colorPrimary">#0F0D23</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FFD81B60</color>
+    <color name="sickColor">#FFAB05</color>
+    <color name="recoverdColor">#47B39C</color>
+    <color name="deathColor">#FF6B45</color>
+    <color name="cardBackgrounf">#242448</color>
+</resources>
