@@ -108,8 +108,8 @@ class MainScreenFragment : Fragment() {
 
         val yVals = ArrayList<PieEntry>()
         yVals.apply {
-            add(PieEntry(death, "Death"))
-            add(PieEntry(confi, "Sick"))
+            add(PieEntry(death, "Deaths"))
+            add(PieEntry(confi, "Cases"))
             add(PieEntry(rec, "Recovered"))
         }
 

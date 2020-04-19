@@ -39,7 +39,7 @@
                     android:layout_marginStart="16dp"
                     android:layout_marginTop="16dp"
                     android:background="@color/cardBackgrounf"
-                    android:text="Total Sick"
+                    android:text="Total Cases"
                     android:textAppearance="@style/TextAppearance.AppCompat.Large"
                     android:textColor="@color/sickColor"
                     app:layout_constraintStart_toStartOf="parent"
