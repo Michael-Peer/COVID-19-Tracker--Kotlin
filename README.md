@@ -2,11 +2,14 @@
 
 ## Main Screen 
 
-![covid1](https://user-images.githubusercontent.com/44434337/79692020-6cff3e80-826b-11ea-9f00-906de792b66a.png)
+![new1c](https://user-images.githubusercontent.com/44434337/79865820-75c75000-83e4-11ea-8fa8-105de937dea9.png)
 
 ## Country Screen
 
-![updated covid](https://user-images.githubusercontent.com/44434337/79692768-99b55500-826f-11ea-9ad2-597dce861ebb.png)
+
+![new2c](https://user-images.githubusercontent.com/44434337/79865853-84ae0280-83e4-11ea-89f6-e1acf7bf54e2.png)
+
+
 
 
 ### Written using kotlin for Android
