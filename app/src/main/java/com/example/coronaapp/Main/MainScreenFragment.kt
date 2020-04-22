@@ -1,4 +1,4 @@
-package com.example.coronaapp
+package com.example.coronaapp.Main
 
 import android.graphics.Color
 import android.os.Bundle
@@ -13,6 +13,8 @@ import androidx.navigation.NavController
 import androidx.navigation.Navigation
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
+import com.example.coronaapp.MainScreenFragmentDirections
+import com.example.coronaapp.R
 import com.example.coronaapp.databinding.FragmentMainScreenBinding
 import com.github.mikephil.charting.components.Legend
 import com.github.mikephil.charting.data.PieData
@@ -32,7 +34,8 @@ class MainScreenFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         val binding = DataBindingUtil.inflate<FragmentMainScreenBinding>(
-            inflater, R.layout.fragment_main_screen, container, false
+            inflater,
+            R.layout.fragment_main_screen, container, false
         )
 
 

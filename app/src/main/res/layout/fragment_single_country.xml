@@ -6,14 +6,14 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.coronaapp.SingleCountryViewModel"/>
+            type="com.example.coronaapp.Country.SingleCountryViewModel"/>
     </data>
 
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".SingleCountry">
+        tools:context=".Country.SingleCountry">
 
         <androidx.cardview.widget.CardView
             android:id="@+id/cardView"

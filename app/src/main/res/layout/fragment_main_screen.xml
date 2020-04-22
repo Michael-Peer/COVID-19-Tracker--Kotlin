@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.coronaapp.MainScreenViewModel"/>
+            type="com.example.coronaapp.Main.MainScreenViewModel"/>
     </data>
 
 

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainScreenFragment"
-        android:name="com.example.coronaapp.MainScreenFragment"
+        android:name="com.example.coronaapp.Main.MainScreenFragment"
         android:label="COVID-19 Tracker"
         tools:layout="@layout/fragment_main_screen"
         >
@@ -21,13 +21,13 @@
 
     <fragment
         android:id="@+id/searchFragment"
-        android:name="com.example.coronaapp.SearchFragment"
+        android:name="com.example.coronaapp.About.AboutFragment"
         android:label="About"
 
         tools:layout="@layout/fragment_search" />
     <fragment
         android:id="@+id/singleCountry"
-        android:name="com.example.coronaapp.SingleCountry"
+        android:name="com.example.coronaapp.Country.SingleCountry"
         android:label="{countryName}"
         tools:layout="@layout/fragment_single_country" >
         <argument

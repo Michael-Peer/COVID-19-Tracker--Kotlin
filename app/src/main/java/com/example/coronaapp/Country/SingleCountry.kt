@@ -1,4 +1,4 @@
-package com.example.coronaapp
+package com.example.coronaapp.Country
 
 import android.graphics.Color
 import android.os.Bundle
@@ -8,6 +8,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
+import com.example.coronaapp.R
+import com.example.coronaapp.SingleCountryArgs
 import com.example.coronaapp.databinding.FragmentSingleCountryBinding
 import com.github.mikephil.charting.data.PieData
 import com.github.mikephil.charting.data.PieDataSet
@@ -27,10 +29,13 @@ class SingleCountry : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         val binding = DataBindingUtil.inflate<FragmentSingleCountryBinding>(
-            inflater, R.layout.fragment_single_country, container, false
+            inflater,
+            R.layout.fragment_single_country, container, false
         )
 
-        val args = SingleCountryArgs.fromBundle(arguments!!)
+        val args = SingleCountryArgs.fromBundle(
+            arguments!!
+        )
 
 
         setupSingleCountryChart(

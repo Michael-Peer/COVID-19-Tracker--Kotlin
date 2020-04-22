@@ -1,4 +1,4 @@
-package com.example.coronaapp
+package com.example.coronaapp.Main
 
 import android.util.Log
 import androidx.lifecycle.LiveData
