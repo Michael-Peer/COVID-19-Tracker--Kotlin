@@ -10,6 +10,6 @@
 ![new2c](https://user-images.githubusercontent.com/44434337/79865853-84ae0280-83e4-11ea-89f6-e1acf7bf54e2.png)
 
 
-#### todo: Improve ux by represent choice list, ui res
+#### TODO: Improve ux by represent choice list, ui res
 
 ### Written using kotlin for Android
